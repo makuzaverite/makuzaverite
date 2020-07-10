@@ -2,7 +2,7 @@
 
 Software developer 
 
-  -Enjoy Learning in public
-  -Helping others
-  -Buidlding projects
+  - Enjoy Learning in public
+  - Helping others
+  - building projects
 
