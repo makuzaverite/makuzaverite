@@ -4,5 +4,5 @@ Software developer
 
   - Enjoy Learning in public
   - Helping others
-  - building projects
+  - Building projects
 
