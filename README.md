@@ -22,6 +22,7 @@ Software developer
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 
- <img src="https://github-readme-stats.vercel.app/apiusername=makuzaverite&count_private=true&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f" width="100%"/>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=makuzaverite&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makuzaverite&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=makuzaverite.makuzaverite)
