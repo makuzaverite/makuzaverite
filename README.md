@@ -33,7 +33,7 @@ Software developer
 <hr>
 
 <a href="https://www.linkedin.com/in/makuza-mugabo-verite-99369a184/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://twitter.com/makuza_mugabo_v" target="_blank"><img src="https://img.shields.io/badge/Twitter-%23E4405F.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+![Twitter Follow](https://img.shields.io/twitter/follow/makuza_mugabo_v?color=037ffc&style=for-the-badge)
 <a href="https://dev.to/mugaboverite" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
 
