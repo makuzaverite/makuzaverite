@@ -1,6 +1,6 @@
 
 <p style="text-align:center">
-<img src="./sample.gif">
+<img src="https://github.com/makuzaverite/makuzaverite/blob/master/sample.gif">
 </p>
 
 
