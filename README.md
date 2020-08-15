@@ -10,9 +10,16 @@ I'm Makuza Mugabo Verite, currently Learning Computer Programming at Rwanda Codi
 
 
 <details>
-  <summary>Github Stats</summary>
+  <summary>:zap: Guthub Status</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=makuzaverite&count_private=true&show_icons=true&include_all_commits=true&width=100%" width="100%" />
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makuzaverite&hide=TeX&layout=compact"/> -->
+</details>
+
+<details>
+  <summary>:zap: Recent Github Activity</summary>
+
+<!--START_SECTION:activity-->
+
 </details>
 
 <hr>
