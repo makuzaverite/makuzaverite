@@ -34,6 +34,12 @@ I'm Makuza Mugabo Verite, currently Learning Computer Programming at Rwanda Codi
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com//makuzaverite/Quality-Assurance-Projects-fcc/pull/1) in [makuzaverite/Quality-Assurance-Projects-fcc](https://github.com//makuzaverite/Quality-Assurance-Projects-fcc)
+2. 💪 Opened PR [#1](https://github.com//makuzaverite/Quality-Assurance-Projects-fcc/pull/1) in [makuzaverite/Quality-Assurance-Projects-fcc](https://github.com//makuzaverite/Quality-Assurance-Projects-fcc)
+3. ❗️ Opened issue [#15](https://github.com//ahmadawais/VSCode-Tips-Tricks/issues/15) in [ahmadawais/VSCode-Tips-Tricks](https://github.com//ahmadawais/VSCode-Tips-Tricks)
+4. 🗣 Commented on [#3824](https://github.com//webpack/webpack.js.org/issues/3824) in [webpack/webpack.js.org](https://github.com//webpack/webpack.js.org)
+5. 🗣 Commented on [#3824](https://github.com//webpack/webpack.js.org/issues/3824) in [webpack/webpack.js.org](https://github.com//webpack/webpack.js.org)
+<!--END_SECTION:activity-->
 
 </details>
 
