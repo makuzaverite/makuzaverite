@@ -14,10 +14,10 @@ I'm Makuza Mugabo Verite, currently Learning Computer Programming at Rwanda Codi
 
 <hr>
 
--><div>
+<div style="text-align:center">
 <a href="https://www.linkedin.com/in/makuza-mugabo-verite-99369a184/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://dev.to/mugaboverite" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
-</div>->
+</div>
 <br><br>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=makuzaverite.makuzaverite)
