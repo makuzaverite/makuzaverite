@@ -1,5 +1,7 @@
 ### Hi There It's Verite 👋
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/makuzaverite?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%makuzaverite&screen_name=makuzaverite)
+
 Software developer 
 
   - Enjoy Learning in public
