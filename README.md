@@ -17,9 +17,11 @@ Software developer
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
+![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 
- <img src="https://github-readme-stats.vercel.app/api?username=makuzaverite&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f" width="100%"/>
+ <img src="https://github-readme-stats.vercel.app/apiusername=makuzaverite&count_private=true&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f" width="100%"/>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=makuzaverite.makuzaverite)
