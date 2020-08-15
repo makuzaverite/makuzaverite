@@ -1,7 +1,5 @@
 ### Hi There It's Verite 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/makuzaverite?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%makuzaverite&screen_name=makuzaverite)
-
 Software developer 
 
   - Enjoy Learning in public
@@ -23,9 +21,14 @@ Software developer
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
+<details>
+  <summary>Github Stats</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=makuzaverite&count_private=true&show_icons=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makuzaverite&hide=TeX&layout=compact"/>
+</details>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=makuzaverite&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makuzaverite&hide=TeX&layout=compact)
+  
+
 
 <hr>
 
