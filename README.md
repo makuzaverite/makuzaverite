@@ -34,11 +34,11 @@ I'm Makuza Mugabo Verite, currently Learning Computer Programming at Rwanda Codi
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//makuzaverite/iDrip/pull/1) in [makuzaverite/iDrip](https://github.com//makuzaverite/iDrip)
-2. 🎉 Merged PR [#2](https://github.com//makuzaverite/iDrip/pull/2) in [makuzaverite/iDrip](https://github.com//makuzaverite/iDrip)
-3. 🎉 Merged PR [#1](https://github.com//makuzaverite/Quality-Assurance-Projects-fcc/pull/1) in [makuzaverite/Quality-Assurance-Projects-fcc](https://github.com//makuzaverite/Quality-Assurance-Projects-fcc)
-4. 💪 Opened PR [#1](https://github.com//makuzaverite/Quality-Assurance-Projects-fcc/pull/1) in [makuzaverite/Quality-Assurance-Projects-fcc](https://github.com//makuzaverite/Quality-Assurance-Projects-fcc)
-5. ❗️ Opened issue [#15](https://github.com//ahmadawais/VSCode-Tips-Tricks/issues/15) in [ahmadawais/VSCode-Tips-Tricks](https://github.com//ahmadawais/VSCode-Tips-Tricks)
+1. 💪 Opened PR [#102](https://github.com//manyuanrong/deno_mongo/pull/102) in [manyuanrong/deno_mongo](https://github.com//manyuanrong/deno_mongo)
+2. 🎉 Merged PR [#1](https://github.com//makuzaverite/iDrip/pull/1) in [makuzaverite/iDrip](https://github.com//makuzaverite/iDrip)
+3. 🎉 Merged PR [#2](https://github.com//makuzaverite/iDrip/pull/2) in [makuzaverite/iDrip](https://github.com//makuzaverite/iDrip)
+4. 🎉 Merged PR [#1](https://github.com//makuzaverite/Quality-Assurance-Projects-fcc/pull/1) in [makuzaverite/Quality-Assurance-Projects-fcc](https://github.com//makuzaverite/Quality-Assurance-Projects-fcc)
+5. 💪 Opened PR [#1](https://github.com//makuzaverite/Quality-Assurance-Projects-fcc/pull/1) in [makuzaverite/Quality-Assurance-Projects-fcc](https://github.com//makuzaverite/Quality-Assurance-Projects-fcc)
 <!--END_SECTION:activity-->
 
 </details>
