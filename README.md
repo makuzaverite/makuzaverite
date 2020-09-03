@@ -19,7 +19,7 @@
 
 
 
-I'm Makuza Mugabo Verite, currently Learning Computer Programming at Rwanda Coding Academy. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative ideas.
+I'm Makuza Mugabo Verite, currently Learning Computer Programming at Rwanda Coding Academy. I love programming & an open-source. I am always open to collaborating on projects and innovative ideas.
 
 
 <details>
