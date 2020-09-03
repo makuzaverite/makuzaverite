@@ -13,9 +13,7 @@
 <a href=https://www.linkedin.com/in/makuza-mugabo-verite-99369a184 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="makuzaverite" height="20" width="20" /></a>
 </p>
 
-<p align="center">
-<img src="https://github.com/makuzaverite/makuzaverite/blob/master/sample.gif">
-</p>
+
 
 
 
