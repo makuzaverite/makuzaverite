@@ -1,19 +1,18 @@
 
 
-<!-- <h1 align="center">Hi There 👋</h1> -->
+ <h1 align="center">Hi There 👋</h1> 
 
 
 
 
 
-<!--
 <p align="center">
 <a href=https://codepen.io/makuza-mugabo-verite target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg alt="makuzaverite" height="20" width="20" /></a>
 <a href=https://dev.to/mugaboverite target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg alt="makuzaverite" height="20" width="20" /></a>
 <a href=https://twitter.com/makuza_mugabo_v target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="makuzaverite" height="20" width="20" /></a>
 <a href=https://www.linkedin.com/in/makuza-mugabo-verite-99369a184 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="makuzaverite" height="20" width="20" /></a>
 </p>
--->
+
 
 
 
@@ -41,7 +40,8 @@ I'm Makuza Mugabo Verite, currently Learning Computer Programming at Rwanda Codi
 
 <hr>
 
-<p style="text-align:center">
+<div style="text-align:center">
+  <p>
 <a href="https://twitter.com/makuza_mugabo_v" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twiter">
 </a>
@@ -54,8 +54,10 @@ I'm Makuza Mugabo Verite, currently Learning Computer Programming at Rwanda Codi
    <img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to">
 </a>
 </p>
+  </div>
 
 
-<br><br>
+
+<br>
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=makuzaverite alt=makuzaverite/> </p>
