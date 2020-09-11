@@ -40,7 +40,7 @@ I'm Makuza Mugabo Verite, currently Learning Computer Programming at Rwanda Codi
 
 <hr>
 
-<div style="text-align:center">
+<div style=" text-align: center">
   <p>
 <a href="https://twitter.com/makuza_mugabo_v" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-%230077B5.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twiter">
@@ -60,4 +60,4 @@ I'm Makuza Mugabo Verite, currently Learning Computer Programming at Rwanda Codi
 
 <br>
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=makuzaverite alt=makuzaverite/> </p>
+<p align="center"> <img src=https://komarev.com/ghpvc/?username=makuzaverite alt=makuzaverite/> </p>
