@@ -32,7 +32,7 @@
 
 
 
-I'm Makuza Mugabo Verite, currently Learning Computer Programming at Rwanda Coding Academy. I love to contribute to open-source and I am always open to collaborating on projects and innovative ideas.
+I'm Makuza Mugabo Verite, currently Learning Software enginnering at Rwanda Coding Academy. I love to contribute to open-source and I am always open to collaborating on projects and innovative ideas.
 
 💬 Ask me about: ReactJS, VueJS, Angular, Performance,Nodejs,TypeScript ,PWA, PHP, Laravel, Testing, Open Source, Web.
 
