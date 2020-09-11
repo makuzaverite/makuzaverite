@@ -1,21 +1,19 @@
 
 
-
-<h1 align="center">Hi There 👋</h1>
-
+<!-- <h1 align="center">Hi There 👋</h1> -->
 
 
 
+
+
+<!--
 <p align="center">
 <a href=https://codepen.io/makuza-mugabo-verite target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg alt="makuzaverite" height="20" width="20" /></a>
 <a href=https://dev.to/mugaboverite target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg alt="makuzaverite" height="20" width="20" /></a>
 <a href=https://twitter.com/makuza_mugabo_v target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="makuzaverite" height="20" width="20" /></a>
 <a href=https://www.linkedin.com/in/makuza-mugabo-verite-99369a184 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="makuzaverite" height="20" width="20" /></a>
 </p>
-
-
-
-
+-->
 
 
 
