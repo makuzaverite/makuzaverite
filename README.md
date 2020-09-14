@@ -32,13 +32,16 @@
 
 
 
-I'm Makuza Mugabo Verite, currently Learning Software engineering at Rwanda Coding Academy. I love to contribute to open-source and I am always open to collaborating on projects and innovative ideas.
+I'm Makuza Mugabo Verite, Full stack enginner I do remote freelance work and contribute to open-source. I am always open to collaborating on projects and innovative ideas.
 
 
 
 <details>
   <summary>:zap: Guthub Status</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=makuzaverite&count_private=true&show_icons=true&include_all_commits=true&width=100%" width="100%" />
+ <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=makuzaverite&count_private=true&show_icons=true&include_all_commits=true&width=100%" width="100%" />
+  
+  </p>
 </details>
 
 <!--
