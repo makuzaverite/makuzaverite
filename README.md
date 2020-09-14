@@ -52,7 +52,6 @@ I'm Makuza Mugabo Verite, currently Learning Software engineering at Rwanda Codi
 4. 🎉 Merged PR [#1](https://github.com//makuzaverite/Quality-Assurance-Projects-fcc/pull/1) in [makuzaverite/Quality-Assurance-Projects-fcc](https://github.com//makuzaverite/Quality-Assurance-Projects-fcc)
 5. 💪 Opened PR [#1](https://github.com//makuzaverite/Quality-Assurance-Projects-fcc/pull/1) in [makuzaverite/Quality-Assurance-Projects-fcc](https://github.com//makuzaverite/Quality-Assurance-Projects-fcc)
 <!--END_SECTION:activity-->
-
 </details>
 
 <hr>
