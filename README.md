@@ -41,9 +41,10 @@ I'm Makuza Mugabo Verite, currently Learning Software engineering at Rwanda Codi
   <img src="https://github-readme-stats.vercel.app/api?username=makuzaverite&count_private=true&show_icons=true&include_all_commits=true&width=100%" width="100%" />
 </details>
 
+<!--
 <details>
  <summary>:zap: Ask me anything about</summary>
-
+-- 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
@@ -77,7 +78,7 @@ I'm Makuza Mugabo Verite, currently Learning Software engineering at Rwanda Codi
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
  </details>
-
+-->
 <details>
   <summary>:zap: Recent Github Activity</summary>
 
