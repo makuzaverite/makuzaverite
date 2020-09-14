@@ -39,8 +39,9 @@ I'm Makuza Mugabo Verite, Full stack engineer I do remote freelance work and con
 <details>
   <summary>:zap: Guthub Status</summary>
  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=makuzaverite&count_private=true&show_icons=true&include_all_commits=true&width=100%" width="100%" />
-  
+ <!--   <img src="https://github-readme-stats.vercel.app/api?username=makuzaverite&count_private=true&show_icons=true&include_all_commits=true&width=100%"  />-->
+  <img src="https://github-readme-stats.vercel.app/api?username=makuzaverite&show_icons=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?makuzaverite=Afanyiyu&layout=compact" />
   </p>
 </details>
 
