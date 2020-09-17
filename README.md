@@ -32,7 +32,7 @@
 
 
 
-I'm Makuza Mugabo Verite, Full stack engineer and open-source contributer. I am always open to collaborating on projects and innovative ideas.
+I'm Makuza Mugabo Verite, Full stack developer and open-source contributor. I am always open to collaborating on projects and innovative ideas.
 
 
 
