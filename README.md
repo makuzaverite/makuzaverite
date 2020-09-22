@@ -87,10 +87,10 @@ I'm Makuza Mugabo Verite, Full stack developer and open-source contributor. I am
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#102](https://github.com//manyuanrong/deno_mongo/pull/102) in [manyuanrong/deno_mongo](https://github.com//manyuanrong/deno_mongo)
-2. 🎉 Merged PR [#1](https://github.com//makuzaverite/iDrip/pull/1) in [makuzaverite/iDrip](https://github.com//makuzaverite/iDrip)
-3. 🎉 Merged PR [#2](https://github.com//makuzaverite/iDrip/pull/2) in [makuzaverite/iDrip](https://github.com//makuzaverite/iDrip)
-4. 🎉 Merged PR [#1](https://github.com//makuzaverite/Quality-Assurance-Projects-fcc/pull/1) in [makuzaverite/Quality-Assurance-Projects-fcc](https://github.com//makuzaverite/Quality-Assurance-Projects-fcc)
+1. ❗️ Opened issue [#4911](https://github.com//vercel/hyper/issues/4911) in [vercel/hyper](https://github.com//vercel/hyper)
+2. 💪 Opened PR [#102](https://github.com//manyuanrong/deno_mongo/pull/102) in [manyuanrong/deno_mongo](https://github.com//manyuanrong/deno_mongo)
+3. 🎉 Merged PR [#1](https://github.com//makuzaverite/iDrip/pull/1) in [makuzaverite/iDrip](https://github.com//makuzaverite/iDrip)
+4. 🎉 Merged PR [#2](https://github.com//makuzaverite/iDrip/pull/2) in [makuzaverite/iDrip](https://github.com//makuzaverite/iDrip)
 5. 💪 Opened PR [#1](https://github.com//makuzaverite/Quality-Assurance-Projects-fcc/pull/1) in [makuzaverite/Quality-Assurance-Projects-fcc](https://github.com//makuzaverite/Quality-Assurance-Projects-fcc)
 <!--END_SECTION:activity-->
 </details>
