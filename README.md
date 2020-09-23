@@ -87,11 +87,11 @@ I'm Makuza Mugabo Verite, Full stack developer and open-source contributor. I am
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4534](https://github.com//palantir/tslint/issues/4534) in [palantir/tslint](https://github.com//palantir/tslint)
-2. ❗️ Opened issue [#4911](https://github.com//vercel/hyper/issues/4911) in [vercel/hyper](https://github.com//vercel/hyper)
-3. 💪 Opened PR [#102](https://github.com//manyuanrong/deno_mongo/pull/102) in [manyuanrong/deno_mongo](https://github.com//manyuanrong/deno_mongo)
-4. 🎉 Merged PR [#1](https://github.com//makuzaverite/iDrip/pull/1) in [makuzaverite/iDrip](https://github.com//makuzaverite/iDrip)
-5. 🎉 Merged PR [#2](https://github.com//makuzaverite/iDrip/pull/2) in [makuzaverite/iDrip](https://github.com//makuzaverite/iDrip)
+1. ❗️ Opened issue [#18854](https://github.com//angular/angular-cli/issues/18854) in [angular/angular-cli](https://github.com//angular/angular-cli)
+2. 🗣 Commented on [#4534](https://github.com//palantir/tslint/issues/4534) in [palantir/tslint](https://github.com//palantir/tslint)
+3. ❗️ Opened issue [#4911](https://github.com//vercel/hyper/issues/4911) in [vercel/hyper](https://github.com//vercel/hyper)
+4. 💪 Opened PR [#102](https://github.com//manyuanrong/deno_mongo/pull/102) in [manyuanrong/deno_mongo](https://github.com//manyuanrong/deno_mongo)
+5. 🎉 Merged PR [#1](https://github.com//makuzaverite/iDrip/pull/1) in [makuzaverite/iDrip](https://github.com//makuzaverite/iDrip)
 <!--END_SECTION:activity-->
 </details>
 
