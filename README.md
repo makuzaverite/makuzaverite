@@ -87,11 +87,11 @@ I'm Makuza Mugabo Verite, Full stack developer and open-source contributor. I am
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1633](https://github.com//reduxjs/react-redux/issues/1633) in [reduxjs/react-redux](https://github.com//reduxjs/react-redux)
-2. 🗣 Commented on [#18854](https://github.com//angular/angular-cli/issues/18854) in [angular/angular-cli](https://github.com//angular/angular-cli)
-3. ❗️ Opened issue [#18854](https://github.com//angular/angular-cli/issues/18854) in [angular/angular-cli](https://github.com//angular/angular-cli)
-4. 🗣 Commented on [#4534](https://github.com//palantir/tslint/issues/4534) in [palantir/tslint](https://github.com//palantir/tslint)
-5. ❗️ Opened issue [#4911](https://github.com//vercel/hyper/issues/4911) in [vercel/hyper](https://github.com//vercel/hyper)
+1. 🗣 Commented on [#1633](https://github.com//reduxjs/react-redux/issues/1633) in [reduxjs/react-redux](https://github.com//reduxjs/react-redux)
+2. ❗️ Opened issue [#1633](https://github.com//reduxjs/react-redux/issues/1633) in [reduxjs/react-redux](https://github.com//reduxjs/react-redux)
+3. 🗣 Commented on [#18854](https://github.com//angular/angular-cli/issues/18854) in [angular/angular-cli](https://github.com//angular/angular-cli)
+4. ❗️ Opened issue [#18854](https://github.com//angular/angular-cli/issues/18854) in [angular/angular-cli](https://github.com//angular/angular-cli)
+5. 🗣 Commented on [#4534](https://github.com//palantir/tslint/issues/4534) in [palantir/tslint](https://github.com//palantir/tslint)
 <!--END_SECTION:activity-->
 </details>
 
