@@ -4,7 +4,7 @@
 
 
 
-I'm Makuza Mugabo Verite, Full stack developer and open-source contributor. I am always open to collaborating on projects and innovative ideas.
+<p>I'm Makuza Mugabo Verite, Software Engineer  and open-source contributor. I am always open to collaborating on projects and innovative ideas.</p>
 
 
 
