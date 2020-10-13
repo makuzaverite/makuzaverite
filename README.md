@@ -87,11 +87,11 @@ I'm Makuza Mugabo Verite, Full stack developer and open-source contributor. I am
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/makuzaverite/mern-Instagram-clone/pull/5) in [makuzaverite/mern-Instagram-clone](https://github.com/makuzaverite/mern-Instagram-clone)
-2. 🎉 Merged PR [#4](https://github.com/makuzaverite/mern-Instagram-clone/pull/4) in [makuzaverite/mern-Instagram-clone](https://github.com/makuzaverite/mern-Instagram-clone)
-3. 💪 Opened PR [#4](https://github.com/makuzaverite/mern-Instagram-clone/pull/4) in [makuzaverite/mern-Instagram-clone](https://github.com/makuzaverite/mern-Instagram-clone)
-4. 💪 Opened PR [#256](https://github.com/florinpop17/app-ideas/pull/256) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
-5. 🗣 Commented on [#27956](https://github.com/microsoft/TypeScript/issues/27956) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+1. 🎉 Merged PR [#5](https://github.com/makuzaverite/mern-Instagram-clone/pull/5) in [makuzaverite/mern-Instagram-clone](https://github.com/makuzaverite/mern-Instagram-clone)
+2. 💪 Opened PR [#5](https://github.com/makuzaverite/mern-Instagram-clone/pull/5) in [makuzaverite/mern-Instagram-clone](https://github.com/makuzaverite/mern-Instagram-clone)
+3. 🎉 Merged PR [#4](https://github.com/makuzaverite/mern-Instagram-clone/pull/4) in [makuzaverite/mern-Instagram-clone](https://github.com/makuzaverite/mern-Instagram-clone)
+4. 💪 Opened PR [#4](https://github.com/makuzaverite/mern-Instagram-clone/pull/4) in [makuzaverite/mern-Instagram-clone](https://github.com/makuzaverite/mern-Instagram-clone)
+5. 💪 Opened PR [#256](https://github.com/florinpop17/app-ideas/pull/256) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
 <!--END_SECTION:activity-->
 </details>
 
