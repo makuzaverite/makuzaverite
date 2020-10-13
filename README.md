@@ -23,11 +23,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/makuzaverite/mern-Instagram-clone/pull/5) in [makuzaverite/mern-Instagram-clone](https://github.com/makuzaverite/mern-Instagram-clone)
-2. 💪 Opened PR [#5](https://github.com/makuzaverite/mern-Instagram-clone/pull/5) in [makuzaverite/mern-Instagram-clone](https://github.com/makuzaverite/mern-Instagram-clone)
-3. 🎉 Merged PR [#4](https://github.com/makuzaverite/mern-Instagram-clone/pull/4) in [makuzaverite/mern-Instagram-clone](https://github.com/makuzaverite/mern-Instagram-clone)
-4. 💪 Opened PR [#4](https://github.com/makuzaverite/mern-Instagram-clone/pull/4) in [makuzaverite/mern-Instagram-clone](https://github.com/makuzaverite/mern-Instagram-clone)
-5. 💪 Opened PR [#256](https://github.com/florinpop17/app-ideas/pull/256) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
+1. 🎉 Merged PR [#2](https://github.com/makuzaverite/covid19tracker/pull/2) in [makuzaverite/covid19tracker](https://github.com/makuzaverite/covid19tracker)
+2. 💪 Opened PR [#2](https://github.com/makuzaverite/covid19tracker/pull/2) in [makuzaverite/covid19tracker](https://github.com/makuzaverite/covid19tracker)
+3. 🎉 Merged PR [#1](https://github.com/makuzaverite/covid19tracker/pull/1) in [makuzaverite/covid19tracker](https://github.com/makuzaverite/covid19tracker)
+4. 💪 Opened PR [#1](https://github.com/makuzaverite/covid19tracker/pull/1) in [makuzaverite/covid19tracker](https://github.com/makuzaverite/covid19tracker)
+5. 🎉 Merged PR [#5](https://github.com/makuzaverite/mern-Instagram-clone/pull/5) in [makuzaverite/mern-Instagram-clone](https://github.com/makuzaverite/mern-Instagram-clone)
 <!--END_SECTION:activity-->
 </details>
 
