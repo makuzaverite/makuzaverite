@@ -22,11 +22,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/makuzaverite/covid19tracker/pull/2) in [makuzaverite/covid19tracker](https://github.com/makuzaverite/covid19tracker)
-2. 💪 Opened PR [#2](https://github.com/makuzaverite/covid19tracker/pull/2) in [makuzaverite/covid19tracker](https://github.com/makuzaverite/covid19tracker)
-3. 🎉 Merged PR [#1](https://github.com/makuzaverite/covid19tracker/pull/1) in [makuzaverite/covid19tracker](https://github.com/makuzaverite/covid19tracker)
-4. 💪 Opened PR [#1](https://github.com/makuzaverite/covid19tracker/pull/1) in [makuzaverite/covid19tracker](https://github.com/makuzaverite/covid19tracker)
-5. 🎉 Merged PR [#5](https://github.com/makuzaverite/mern-Instagram-clone/pull/5) in [makuzaverite/mern-Instagram-clone](https://github.com/makuzaverite/mern-Instagram-clone)
+1. 🎉 Merged PR [#4](https://github.com/makuzaverite/shopping-store/pull/4) in [makuzaverite/shopping-store](https://github.com/makuzaverite/shopping-store)
+2. 🎉 Merged PR [#3](https://github.com/makuzaverite/shopping-store/pull/3) in [makuzaverite/shopping-store](https://github.com/makuzaverite/shopping-store)
+3. 💪 Opened PR [#3](https://github.com/makuzaverite/shopping-store/pull/3) in [makuzaverite/shopping-store](https://github.com/makuzaverite/shopping-store)
+4. 🎉 Merged PR [#2](https://github.com/makuzaverite/shopping-store/pull/2) in [makuzaverite/shopping-store](https://github.com/makuzaverite/shopping-store)
+5. 💪 Opened PR [#2](https://github.com/makuzaverite/shopping-store/pull/2) in [makuzaverite/shopping-store](https://github.com/makuzaverite/shopping-store)
 <!--END_SECTION:activity-->
 </details>
 
