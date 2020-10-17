@@ -3,7 +3,7 @@
 
 ## HI 
 
-<p>I'm Makuza Mugabo Verite, Software Engineer  and open-source contributor. I am always open to collaborating on projects and innovative ideas.</p>
+<p>I'm Makuza Mugabo Verite, Software Engineer  and open-sourcer. I am always open to collaborating on projects and innovative ideas.</p>
 
 
 
