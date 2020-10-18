@@ -22,11 +22,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/makuzaverite/shopping-store/pull/4) in [makuzaverite/shopping-store](https://github.com/makuzaverite/shopping-store)
-2. 🎉 Merged PR [#3](https://github.com/makuzaverite/shopping-store/pull/3) in [makuzaverite/shopping-store](https://github.com/makuzaverite/shopping-store)
-3. 💪 Opened PR [#3](https://github.com/makuzaverite/shopping-store/pull/3) in [makuzaverite/shopping-store](https://github.com/makuzaverite/shopping-store)
-4. 🎉 Merged PR [#2](https://github.com/makuzaverite/shopping-store/pull/2) in [makuzaverite/shopping-store](https://github.com/makuzaverite/shopping-store)
-5. 💪 Opened PR [#2](https://github.com/makuzaverite/shopping-store/pull/2) in [makuzaverite/shopping-store](https://github.com/makuzaverite/shopping-store)
+1. ❗️ Opened issue [#367](https://github.com/EddieJaoudeCommunity/support/issues/367) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+2. 🎉 Merged PR [#4](https://github.com/makuzaverite/shopping-store/pull/4) in [makuzaverite/shopping-store](https://github.com/makuzaverite/shopping-store)
+3. 🎉 Merged PR [#3](https://github.com/makuzaverite/shopping-store/pull/3) in [makuzaverite/shopping-store](https://github.com/makuzaverite/shopping-store)
+4. 💪 Opened PR [#3](https://github.com/makuzaverite/shopping-store/pull/3) in [makuzaverite/shopping-store](https://github.com/makuzaverite/shopping-store)
+5. 🎉 Merged PR [#2](https://github.com/makuzaverite/shopping-store/pull/2) in [makuzaverite/shopping-store](https://github.com/makuzaverite/shopping-store)
 <!--END_SECTION:activity-->
 </details>
 
