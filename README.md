@@ -23,10 +23,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#9513](https://github.com/Automattic/mongoose/issues/9513) in [Automattic/mongoose](https://github.com/Automattic/mongoose)
-2. ❗️ Opened issue [#359](https://github.com/eKoopmans/html2pdf.js/issues/359) in [eKoopmans/html2pdf.js](https://github.com/eKoopmans/html2pdf.js)
-3. ❗️ Opened issue [#367](https://github.com/EddieJaoudeCommunity/support/issues/367) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-4. 🎉 Merged PR [#4](https://github.com/makuzaverite/shopping-store/pull/4) in [makuzaverite/shopping-store](https://github.com/makuzaverite/shopping-store)
-5. 🎉 Merged PR [#3](https://github.com/makuzaverite/shopping-store/pull/3) in [makuzaverite/shopping-store](https://github.com/makuzaverite/shopping-store)
+2. 🗣 Commented on [#9513](https://github.com/Automattic/mongoose/issues/9513) in [Automattic/mongoose](https://github.com/Automattic/mongoose)
+3. ❗️ Opened issue [#359](https://github.com/eKoopmans/html2pdf.js/issues/359) in [eKoopmans/html2pdf.js](https://github.com/eKoopmans/html2pdf.js)
+4. ❗️ Opened issue [#367](https://github.com/EddieJaoudeCommunity/support/issues/367) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+5. 🎉 Merged PR [#4](https://github.com/makuzaverite/shopping-store/pull/4) in [makuzaverite/shopping-store](https://github.com/makuzaverite/shopping-store)
 <!--END_SECTION:activity-->
 </details>
 
