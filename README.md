@@ -22,7 +22,7 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9513](https://github.com/Automattic/mongoose/issues/9513) in [Automattic/mongoose](https://github.com/Automattic/mongoose)
+1. ❗️ Opened issue [#6215](https://github.com/microsoft/WSL/issues/6215) in [microsoft/WSL](https://github.com/microsoft/WSL)
 2. 🗣 Commented on [#9513](https://github.com/Automattic/mongoose/issues/9513) in [Automattic/mongoose](https://github.com/Automattic/mongoose)
 3. 🗣 Commented on [#9513](https://github.com/Automattic/mongoose/issues/9513) in [Automattic/mongoose](https://github.com/Automattic/mongoose)
 4. 🗣 Commented on [#9513](https://github.com/Automattic/mongoose/issues/9513) in [Automattic/mongoose](https://github.com/Automattic/mongoose)
