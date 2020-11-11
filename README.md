@@ -1,7 +1,7 @@
 
 
 
-# HI 
+### Hi Folks!
 
 <p>I'm Makuza Mugabo Verite, Software Engineer  and open-sourcer. I am always open to collaborating on projects and innovative ideas.</p>
 
