@@ -31,9 +31,11 @@
 
 
 <br>
+
+
 <hr>
 
-<p align="center"><em>Find me here on the web</em></p>
+<p align="center"><em>Find me here on the internet</em></p>
 
 <p align="center">
  
