@@ -21,11 +21,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9849](https://github.com/babel/babel/issues/9849) in [babel/babel](https://github.com/babel/babel)
-2. 🗣 Commented on [#6215](https://github.com/microsoft/WSL/issues/6215) in [microsoft/WSL](https://github.com/microsoft/WSL)
-3. ❗️ Opened issue [#6215](https://github.com/microsoft/WSL/issues/6215) in [microsoft/WSL](https://github.com/microsoft/WSL)
-4. 🗣 Commented on [#9513](https://github.com/Automattic/mongoose/issues/9513) in [Automattic/mongoose](https://github.com/Automattic/mongoose)
-5. 🗣 Commented on [#9513](https://github.com/Automattic/mongoose/issues/9513) in [Automattic/mongoose](https://github.com/Automattic/mongoose)
+1. 🎉 Merged PR [#2](https://github.com/makuzaverite/frontend-mentors_challenges/pull/2) in [makuzaverite/frontend-mentors_challenges](https://github.com/makuzaverite/frontend-mentors_challenges)
+2. 💪 Opened PR [#2](https://github.com/makuzaverite/frontend-mentors_challenges/pull/2) in [makuzaverite/frontend-mentors_challenges](https://github.com/makuzaverite/frontend-mentors_challenges)
+3. 🎉 Merged PR [#1](https://github.com/makuzaverite/frontend-mentors_challenges/pull/1) in [makuzaverite/frontend-mentors_challenges](https://github.com/makuzaverite/frontend-mentors_challenges)
+4. 💪 Opened PR [#1](https://github.com/makuzaverite/frontend-mentors_challenges/pull/1) in [makuzaverite/frontend-mentors_challenges](https://github.com/makuzaverite/frontend-mentors_challenges)
+5. 🗣 Commented on [#9849](https://github.com/babel/babel/issues/9849) in [babel/babel](https://github.com/babel/babel)
 <!--END_SECTION:activity-->
 </details>
 
