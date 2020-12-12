@@ -31,12 +31,8 @@
 </details>
 
 
-<br>
 
-
-<hr>
-
-<p align="center"><em>Find me here on the internet</em></p>
+<h5 align="center"><em>Find me here on the internet</em></h5>
 
 <p align="center">
  
