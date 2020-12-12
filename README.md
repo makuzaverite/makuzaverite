@@ -1,9 +1,10 @@
 
 
+<h1 align="center">Hi 👋,I'm Makuza Mugabo Verite, </h1>
 
-
-<p>I'm Makuza Mugabo Verite, Software Engineer  and open-sourcer. I am always open to collaborating on projects and innovative ideas.</p>
-
+<br/>
+<h5 align="center">Software Engineer  and open-sourcer. I am always open to collaborating on projects and innovative ideas.</h5>
+ <br/>
 
 
 <details>
