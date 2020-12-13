@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋,I'm Makuza Mugabo Verite, </h1>
+<h1 align="center">Hi, I'm Makuza Mugabo Verite </h1>
 
 <br/>
 <h4 align="center">Software Engineer  and open-sourcer. I am always open to collaborating on projects and innovative ideas.</h4>
