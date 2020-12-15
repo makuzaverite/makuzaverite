@@ -22,11 +22,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/makuzaverite/HtmlCssProjects/pull/2) in [makuzaverite/HtmlCssProjects](https://github.com/makuzaverite/HtmlCssProjects)
-2. 💪 Opened PR [#2](https://github.com/makuzaverite/HtmlCssProjects/pull/2) in [makuzaverite/HtmlCssProjects](https://github.com/makuzaverite/HtmlCssProjects)
-3. 🎉 Merged PR [#1](https://github.com/makuzaverite/HtmlCssProjects/pull/1) in [makuzaverite/HtmlCssProjects](https://github.com/makuzaverite/HtmlCssProjects)
-4. 💪 Opened PR [#1](https://github.com/makuzaverite/HtmlCssProjects/pull/1) in [makuzaverite/HtmlCssProjects](https://github.com/makuzaverite/HtmlCssProjects)
-5. 🎉 Merged PR [#2](https://github.com/makuzaverite/nodejs-mongodb-docker/pull/2) in [makuzaverite/nodejs-mongodb-docker](https://github.com/makuzaverite/nodejs-mongodb-docker)
+1. 🎉 Merged PR [#3](https://github.com/Rwanda-Coding-Academy/Valdie/pull/3) in [Rwanda-Coding-Academy/Valdie](https://github.com/Rwanda-Coding-Academy/Valdie)
+2. 🎉 Merged PR [#2](https://github.com/makuzaverite/HtmlCssProjects/pull/2) in [makuzaverite/HtmlCssProjects](https://github.com/makuzaverite/HtmlCssProjects)
+3. 💪 Opened PR [#2](https://github.com/makuzaverite/HtmlCssProjects/pull/2) in [makuzaverite/HtmlCssProjects](https://github.com/makuzaverite/HtmlCssProjects)
+4. 🎉 Merged PR [#1](https://github.com/makuzaverite/HtmlCssProjects/pull/1) in [makuzaverite/HtmlCssProjects](https://github.com/makuzaverite/HtmlCssProjects)
+5. 💪 Opened PR [#1](https://github.com/makuzaverite/HtmlCssProjects/pull/1) in [makuzaverite/HtmlCssProjects](https://github.com/makuzaverite/HtmlCssProjects)
 <!--END_SECTION:activity-->
 </details>
 
