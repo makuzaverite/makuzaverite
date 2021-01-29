@@ -21,11 +21,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#186](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/186) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-2. 🗣 Commented on [#187](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/187) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-3. 💪 Opened PR [#187](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/187) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-4. ❗️ Opened issue [#186](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/186) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
-5. 🎉 Merged PR [#3](https://github.com/Rwanda-Coding-Academy/Valdie/pull/3) in [Rwanda-Coding-Academy/Valdie](https://github.com/Rwanda-Coding-Academy/Valdie)
+1. 💪 Opened PR [#7](https://github.com/PatrickNiyogitare28/customify/pull/7) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
+2. ❗️ Closed issue [#186](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/186) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+3. 🗣 Commented on [#187](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/187) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+4. 💪 Opened PR [#187](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/pull/187) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
+5. ❗️ Opened issue [#186](https://github.com/EddieJaoudeCommunity/awesome-github-profiles/issues/186) in [EddieJaoudeCommunity/awesome-github-profiles](https://github.com/EddieJaoudeCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
 </details>
 
