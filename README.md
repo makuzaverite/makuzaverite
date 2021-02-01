@@ -9,11 +9,7 @@
 <details>
   <summary>:zap: Guthub Status</summary>
  <p>
-<!--  <img src="https://github-readme-stats.vercel.app/api?username=makuzaverite&count_private=true&show_icons=true&include_all_commits=true&width=100%"  width="100%"/> -->
   <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=makuzaverite&count_private=true&show_icons=true&include_all_commits=true&show_icons=true&theme=tokyonight" /></p>
-
- <!-- <img src="https://github-readme-stats.vercel.app/api?username=makuzaverite&show_icons=true&count_private=true" />-->
-  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makuzaverite&layout=compact" />-->
   </p>
 </details>
 
