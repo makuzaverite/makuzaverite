@@ -51,7 +51,5 @@
 <a href="https://codepen.io/makuza-mugabo-verite" target="_blank">
    <img src="https://img.shields.io/badge/Codepen-%230A0A0A.svg?&style=for-the-badge&logo=Codepen&logoColor=white" alt="Codepen">
 </a>
- 
- 
+
 </p>
-<!-- <p align="center"> <img src=https://komarev.com/ghpvc/?username=makuzaverite alt=makuzaverite/> </p> -->
