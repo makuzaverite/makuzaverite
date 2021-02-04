@@ -17,11 +17,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/PatrickNiyogitare28/customify/pull/16) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
-2. 🎉 Merged PR [#17](https://github.com/PatrickNiyogitare28/customify/pull/17) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
-3. 💪 Opened PR [#19](https://github.com/PatrickNiyogitare28/customify/pull/19) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
-4. 🎉 Merged PR [#1](https://github.com/makuzaverite/dots/pull/1) in [makuzaverite/dots](https://github.com/makuzaverite/dots)
-5. 💪 Opened PR [#1](https://github.com/makuzaverite/dots/pull/1) in [makuzaverite/dots](https://github.com/makuzaverite/dots)
+1. 🗣 Commented on [#20](https://github.com/PatrickNiyogitare28/customify/issues/20) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
+2. 🎉 Merged PR [#16](https://github.com/PatrickNiyogitare28/customify/pull/16) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
+3. 🎉 Merged PR [#17](https://github.com/PatrickNiyogitare28/customify/pull/17) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
+4. 💪 Opened PR [#19](https://github.com/PatrickNiyogitare28/customify/pull/19) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
+5. 🎉 Merged PR [#1](https://github.com/makuzaverite/dots/pull/1) in [makuzaverite/dots](https://github.com/makuzaverite/dots)
 <!--END_SECTION:activity-->
 </details>
 
