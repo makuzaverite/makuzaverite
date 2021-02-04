@@ -17,11 +17,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/makuzaverite/dots/pull/1) in [makuzaverite/dots](https://github.com/makuzaverite/dots)
-2. 💪 Opened PR [#1](https://github.com/makuzaverite/dots/pull/1) in [makuzaverite/dots](https://github.com/makuzaverite/dots)
-3. 🎉 Merged PR [#15](https://github.com/makuzaverite/online-shopping-store/pull/15) in [makuzaverite/online-shopping-store](https://github.com/makuzaverite/online-shopping-store)
-4. 💪 Opened PR [#15](https://github.com/makuzaverite/online-shopping-store/pull/15) in [makuzaverite/online-shopping-store](https://github.com/makuzaverite/online-shopping-store)
-5. 🎉 Merged PR [#14](https://github.com/makuzaverite/online-shopping-store/pull/14) in [makuzaverite/online-shopping-store](https://github.com/makuzaverite/online-shopping-store)
+1. 💪 Opened PR [#19](https://github.com/PatrickNiyogitare28/customify/pull/19) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
+2. 🎉 Merged PR [#1](https://github.com/makuzaverite/dots/pull/1) in [makuzaverite/dots](https://github.com/makuzaverite/dots)
+3. 💪 Opened PR [#1](https://github.com/makuzaverite/dots/pull/1) in [makuzaverite/dots](https://github.com/makuzaverite/dots)
+4. 🎉 Merged PR [#15](https://github.com/makuzaverite/online-shopping-store/pull/15) in [makuzaverite/online-shopping-store](https://github.com/makuzaverite/online-shopping-store)
+5. 💪 Opened PR [#15](https://github.com/makuzaverite/online-shopping-store/pull/15) in [makuzaverite/online-shopping-store](https://github.com/makuzaverite/online-shopping-store)
 <!--END_SECTION:activity-->
 </details>
 
