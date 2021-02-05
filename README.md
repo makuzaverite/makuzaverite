@@ -17,11 +17,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2838](https://github.com/fastify/fastify/pull/2838) in [fastify/fastify](https://github.com/fastify/fastify)
-2. 🗣 Commented on [#2836](https://github.com/fastify/fastify/issues/2836) in [fastify/fastify](https://github.com/fastify/fastify)
-3. 💪 Opened PR [#17](https://github.com/denodrivers/mango/pull/17) in [denodrivers/mango](https://github.com/denodrivers/mango)
-4. 🎉 Merged PR [#3](https://github.com/makuzaverite/fitty/pull/3) in [makuzaverite/fitty](https://github.com/makuzaverite/fitty)
-5. 💪 Opened PR [#3](https://github.com/makuzaverite/fitty/pull/3) in [makuzaverite/fitty](https://github.com/makuzaverite/fitty)
+1. ❗️ Opened issue [#25](https://github.com/pacocoursey/next-themes/issues/25) in [pacocoursey/next-themes](https://github.com/pacocoursey/next-themes)
+2. 💪 Opened PR [#2838](https://github.com/fastify/fastify/pull/2838) in [fastify/fastify](https://github.com/fastify/fastify)
+3. 🗣 Commented on [#2836](https://github.com/fastify/fastify/issues/2836) in [fastify/fastify](https://github.com/fastify/fastify)
+4. 💪 Opened PR [#17](https://github.com/denodrivers/mango/pull/17) in [denodrivers/mango](https://github.com/denodrivers/mango)
+5. 🎉 Merged PR [#3](https://github.com/makuzaverite/fitty/pull/3) in [makuzaverite/fitty](https://github.com/makuzaverite/fitty)
 <!--END_SECTION:activity-->
 </details>
 
