@@ -17,11 +17,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/PatrickNiyogitare28/customify/issues/20) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
-2. 🎉 Merged PR [#16](https://github.com/PatrickNiyogitare28/customify/pull/16) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
-3. 🎉 Merged PR [#17](https://github.com/PatrickNiyogitare28/customify/pull/17) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
-4. 💪 Opened PR [#19](https://github.com/PatrickNiyogitare28/customify/pull/19) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
-5. 🎉 Merged PR [#1](https://github.com/makuzaverite/dots/pull/1) in [makuzaverite/dots](https://github.com/makuzaverite/dots)
+1. 🎉 Merged PR [#3](https://github.com/makuzaverite/fitty/pull/3) in [makuzaverite/fitty](https://github.com/makuzaverite/fitty)
+2. 💪 Opened PR [#3](https://github.com/makuzaverite/fitty/pull/3) in [makuzaverite/fitty](https://github.com/makuzaverite/fitty)
+3. 🎉 Merged PR [#2](https://github.com/makuzaverite/fitty/pull/2) in [makuzaverite/fitty](https://github.com/makuzaverite/fitty)
+4. 💪 Opened PR [#2](https://github.com/makuzaverite/fitty/pull/2) in [makuzaverite/fitty](https://github.com/makuzaverite/fitty)
+5. 🎉 Merged PR [#1](https://github.com/makuzaverite/fitty/pull/1) in [makuzaverite/fitty](https://github.com/makuzaverite/fitty)
 <!--END_SECTION:activity-->
 </details>
 
