@@ -17,11 +17,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#141](https://github.com/fastify/help/issues/141) in [fastify/help](https://github.com/fastify/help)
-2. ❗️ Opened issue [#25](https://github.com/pacocoursey/next-themes/issues/25) in [pacocoursey/next-themes](https://github.com/pacocoursey/next-themes)
-3. 💪 Opened PR [#2838](https://github.com/fastify/fastify/pull/2838) in [fastify/fastify](https://github.com/fastify/fastify)
-4. 🗣 Commented on [#2836](https://github.com/fastify/fastify/issues/2836) in [fastify/fastify](https://github.com/fastify/fastify)
-5. 💪 Opened PR [#17](https://github.com/denodrivers/mango/pull/17) in [denodrivers/mango](https://github.com/denodrivers/mango)
+1. 🎉 Merged PR [#29](https://github.com/PatrickNiyogitare28/customify/pull/29) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
+2. 🗣 Commented on [#141](https://github.com/fastify/help/issues/141) in [fastify/help](https://github.com/fastify/help)
+3. ❗️ Opened issue [#25](https://github.com/pacocoursey/next-themes/issues/25) in [pacocoursey/next-themes](https://github.com/pacocoursey/next-themes)
+4. 💪 Opened PR [#2838](https://github.com/fastify/fastify/pull/2838) in [fastify/fastify](https://github.com/fastify/fastify)
+5. 🗣 Commented on [#2836](https://github.com/fastify/fastify/issues/2836) in [fastify/fastify](https://github.com/fastify/fastify)
 <!--END_SECTION:activity-->
 </details>
 
