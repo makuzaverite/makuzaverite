@@ -17,11 +17,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/PatrickNiyogitare28/customify/pull/33) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
-2. 🗣 Commented on [#33](https://github.com/PatrickNiyogitare28/customify/issues/33) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
-3. 🗣 Commented on [#32](https://github.com/PatrickNiyogitare28/customify/issues/32) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
-4. 🗣 Commented on [#32](https://github.com/PatrickNiyogitare28/customify/issues/32) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
-5. 🎉 Merged PR [#30](https://github.com/PatrickNiyogitare28/customify/pull/30) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
+1. 💪 Opened PR [#366](https://github.com/fastify/help/pull/366) in [fastify/help](https://github.com/fastify/help)
+2. 🎉 Merged PR [#1](https://github.com/makuzaverite/help/pull/1) in [makuzaverite/help](https://github.com/makuzaverite/help)
+3. 💪 Opened PR [#1](https://github.com/makuzaverite/help/pull/1) in [makuzaverite/help](https://github.com/makuzaverite/help)
+4. 🎉 Merged PR [#33](https://github.com/PatrickNiyogitare28/customify/pull/33) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
+5. 🗣 Commented on [#33](https://github.com/PatrickNiyogitare28/customify/issues/33) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
 <!--END_SECTION:activity-->
 </details>
 
