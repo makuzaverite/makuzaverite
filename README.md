@@ -17,11 +17,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com/PatrickNiyogitare28/customify/pull/42) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
-2. 🎉 Merged PR [#49](https://github.com/PatrickNiyogitare28/customify/pull/49) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
-3. 💪 Opened PR [#49](https://github.com/PatrickNiyogitare28/customify/pull/49) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
-4. 🎉 Merged PR [#46](https://github.com/PatrickNiyogitare28/customify/pull/46) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
-5. 🎉 Merged PR [#45](https://github.com/PatrickNiyogitare28/customify/pull/45) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
+1. 🗣 Commented on [#26462](https://github.com/kubernetes/website/issues/26462) in [kubernetes/website](https://github.com/kubernetes/website)
+2. ❗️ Opened issue [#26462](https://github.com/kubernetes/website/issues/26462) in [kubernetes/website](https://github.com/kubernetes/website)
+3. 🎉 Merged PR [#42](https://github.com/PatrickNiyogitare28/customify/pull/42) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
+4. 🎉 Merged PR [#49](https://github.com/PatrickNiyogitare28/customify/pull/49) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
+5. 💪 Opened PR [#49](https://github.com/PatrickNiyogitare28/customify/pull/49) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
 <!--END_SECTION:activity-->
 </details>
 
