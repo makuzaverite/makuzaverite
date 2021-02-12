@@ -17,11 +17,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#264](https://github.com/hackclub/dinosaurs/pull/264) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
-2. 🗣 Commented on [#26462](https://github.com/kubernetes/website/issues/26462) in [kubernetes/website](https://github.com/kubernetes/website)
-3. ❗️ Opened issue [#26462](https://github.com/kubernetes/website/issues/26462) in [kubernetes/website](https://github.com/kubernetes/website)
-4. 🎉 Merged PR [#42](https://github.com/PatrickNiyogitare28/customify/pull/42) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
-5. 🎉 Merged PR [#49](https://github.com/PatrickNiyogitare28/customify/pull/49) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
+1. 💪 Opened PR [#286](https://github.com/fastify/fast-json-stringify/pull/286) in [fastify/fast-json-stringify](https://github.com/fastify/fast-json-stringify)
+2. 💪 Opened PR [#264](https://github.com/hackclub/dinosaurs/pull/264) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
+3. 🗣 Commented on [#26462](https://github.com/kubernetes/website/issues/26462) in [kubernetes/website](https://github.com/kubernetes/website)
+4. ❗️ Opened issue [#26462](https://github.com/kubernetes/website/issues/26462) in [kubernetes/website](https://github.com/kubernetes/website)
+5. 🎉 Merged PR [#42](https://github.com/PatrickNiyogitare28/customify/pull/42) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
 <!--END_SECTION:activity-->
 </details>
 
