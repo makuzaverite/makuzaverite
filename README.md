@@ -17,11 +17,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#286](https://github.com/fastify/fast-json-stringify/pull/286) in [fastify/fast-json-stringify](https://github.com/fastify/fast-json-stringify)
-2. 💪 Opened PR [#264](https://github.com/hackclub/dinosaurs/pull/264) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
-3. 🗣 Commented on [#26462](https://github.com/kubernetes/website/issues/26462) in [kubernetes/website](https://github.com/kubernetes/website)
-4. ❗️ Opened issue [#26462](https://github.com/kubernetes/website/issues/26462) in [kubernetes/website](https://github.com/kubernetes/website)
-5. 🎉 Merged PR [#42](https://github.com/PatrickNiyogitare28/customify/pull/42) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
+1. 🎉 Merged PR [#2](https://github.com/makuzaverite/gtube/pull/2) in [makuzaverite/gtube](https://github.com/makuzaverite/gtube)
+2. 💪 Opened PR [#2](https://github.com/makuzaverite/gtube/pull/2) in [makuzaverite/gtube](https://github.com/makuzaverite/gtube)
+3. 🎉 Merged PR [#1](https://github.com/makuzaverite/gtube/pull/1) in [makuzaverite/gtube](https://github.com/makuzaverite/gtube)
+4. 💪 Opened PR [#1](https://github.com/makuzaverite/gtube/pull/1) in [makuzaverite/gtube](https://github.com/makuzaverite/gtube)
+5. 💪 Opened PR [#286](https://github.com/fastify/fast-json-stringify/pull/286) in [fastify/fast-json-stringify](https://github.com/fastify/fast-json-stringify)
 <!--END_SECTION:activity-->
 </details>
 
