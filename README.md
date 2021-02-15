@@ -17,11 +17,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/makuzaverite/gtube/pull/2) in [makuzaverite/gtube](https://github.com/makuzaverite/gtube)
-2. 💪 Opened PR [#2](https://github.com/makuzaverite/gtube/pull/2) in [makuzaverite/gtube](https://github.com/makuzaverite/gtube)
-3. 🎉 Merged PR [#1](https://github.com/makuzaverite/gtube/pull/1) in [makuzaverite/gtube](https://github.com/makuzaverite/gtube)
-4. 💪 Opened PR [#1](https://github.com/makuzaverite/gtube/pull/1) in [makuzaverite/gtube](https://github.com/makuzaverite/gtube)
-5. 💪 Opened PR [#286](https://github.com/fastify/fast-json-stringify/pull/286) in [fastify/fast-json-stringify](https://github.com/fastify/fast-json-stringify)
+1. 🗣 Commented on [#17](https://github.com/denodrivers/mango/issues/17) in [denodrivers/mango](https://github.com/denodrivers/mango)
+2. 🗣 Commented on [#366](https://github.com/fastify/help/issues/366) in [fastify/help](https://github.com/fastify/help)
+3. 🎉 Merged PR [#2](https://github.com/makuzaverite/gtube/pull/2) in [makuzaverite/gtube](https://github.com/makuzaverite/gtube)
+4. 💪 Opened PR [#2](https://github.com/makuzaverite/gtube/pull/2) in [makuzaverite/gtube](https://github.com/makuzaverite/gtube)
+5. 🎉 Merged PR [#1](https://github.com/makuzaverite/gtube/pull/1) in [makuzaverite/gtube](https://github.com/makuzaverite/gtube)
 <!--END_SECTION:activity-->
 </details>
 
