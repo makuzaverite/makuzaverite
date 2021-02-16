@@ -17,11 +17,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/makuzaverite/fmbytes/pull/2) in [makuzaverite/fmbytes](https://github.com/makuzaverite/fmbytes)
-2. 💪 Opened PR [#2](https://github.com/makuzaverite/fmbytes/pull/2) in [makuzaverite/fmbytes](https://github.com/makuzaverite/fmbytes)
-3. 🎉 Merged PR [#1](https://github.com/makuzaverite/fmbytes/pull/1) in [makuzaverite/fmbytes](https://github.com/makuzaverite/fmbytes)
-4. 💪 Opened PR [#1](https://github.com/makuzaverite/fmbytes/pull/1) in [makuzaverite/fmbytes](https://github.com/makuzaverite/fmbytes)
-5. 🗣 Commented on [#366](https://github.com/fastify/help/issues/366) in [fastify/help](https://github.com/fastify/help)
+1. 🎉 Merged PR [#16](https://github.com/makuzaverite/covid19tracker/pull/16) in [makuzaverite/covid19tracker](https://github.com/makuzaverite/covid19tracker)
+2. 💪 Opened PR [#16](https://github.com/makuzaverite/covid19tracker/pull/16) in [makuzaverite/covid19tracker](https://github.com/makuzaverite/covid19tracker)
+3. 🎉 Merged PR [#2](https://github.com/makuzaverite/fmbytes/pull/2) in [makuzaverite/fmbytes](https://github.com/makuzaverite/fmbytes)
+4. 💪 Opened PR [#2](https://github.com/makuzaverite/fmbytes/pull/2) in [makuzaverite/fmbytes](https://github.com/makuzaverite/fmbytes)
+5. 🎉 Merged PR [#1](https://github.com/makuzaverite/fmbytes/pull/1) in [makuzaverite/fmbytes](https://github.com/makuzaverite/fmbytes)
 <!--END_SECTION:activity-->
 </details>
 
