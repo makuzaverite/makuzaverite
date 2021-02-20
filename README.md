@@ -17,11 +17,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/makuzaverite/deno-retry/pull/3) in [makuzaverite/deno-retry](https://github.com/makuzaverite/deno-retry)
-2. 💪 Opened PR [#3](https://github.com/makuzaverite/deno-retry/pull/3) in [makuzaverite/deno-retry](https://github.com/makuzaverite/deno-retry)
-3. 🎉 Merged PR [#2](https://github.com/makuzaverite/deno-retry/pull/2) in [makuzaverite/deno-retry](https://github.com/makuzaverite/deno-retry)
-4. 💪 Opened PR [#2](https://github.com/makuzaverite/deno-retry/pull/2) in [makuzaverite/deno-retry](https://github.com/makuzaverite/deno-retry)
-5. 🎉 Merged PR [#1](https://github.com/makuzaverite/deno-retry/pull/1) in [makuzaverite/deno-retry](https://github.com/makuzaverite/deno-retry)
+1. 🎉 Merged PR [#5](https://github.com/makuzaverite/deno-retry/pull/5) in [makuzaverite/deno-retry](https://github.com/makuzaverite/deno-retry)
+2. 💪 Opened PR [#5](https://github.com/makuzaverite/deno-retry/pull/5) in [makuzaverite/deno-retry](https://github.com/makuzaverite/deno-retry)
+3. ❗️ Opened issue [#4](https://github.com/makuzaverite/deno-retry/issues/4) in [makuzaverite/deno-retry](https://github.com/makuzaverite/deno-retry)
+4. 🎉 Merged PR [#3](https://github.com/makuzaverite/deno-retry/pull/3) in [makuzaverite/deno-retry](https://github.com/makuzaverite/deno-retry)
+5. 💪 Opened PR [#3](https://github.com/makuzaverite/deno-retry/pull/3) in [makuzaverite/deno-retry](https://github.com/makuzaverite/deno-retry)
 <!--END_SECTION:activity-->
 </details>
 
