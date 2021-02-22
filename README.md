@@ -17,11 +17,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com/fastify/example/pull/16) in [fastify/example](https://github.com/fastify/example)
-2. 🎉 Merged PR [#1](https://github.com/makuzaverite/X-Deno/pull/1) in [makuzaverite/X-Deno](https://github.com/makuzaverite/X-Deno)
-3. 💪 Opened PR [#1](https://github.com/makuzaverite/X-Deno/pull/1) in [makuzaverite/X-Deno](https://github.com/makuzaverite/X-Deno)
-4. 🗣 Commented on [#2](https://github.com/KhushrajRathod/slack-rtm-api/issues/2) in [KhushrajRathod/slack-rtm-api](https://github.com/KhushrajRathod/slack-rtm-api)
-5. ❗️ Closed issue [#4](https://github.com/makuzaverite/deno-retry/issues/4) in [makuzaverite/deno-retry](https://github.com/makuzaverite/deno-retry)
+1. 🗣 Commented on [#1](https://github.com/KhushrajRathod/Finity/issues/1) in [KhushrajRathod/Finity](https://github.com/KhushrajRathod/Finity)
+2. ❌ Closed PR [#7](https://github.com/KhushrajRathod/Finity/pull/7) in [KhushrajRathod/Finity](https://github.com/KhushrajRathod/Finity)
+3. 💪 Opened PR [#7](https://github.com/KhushrajRathod/Finity/pull/7) in [KhushrajRathod/Finity](https://github.com/KhushrajRathod/Finity)
+4. 💪 Opened PR [#16](https://github.com/fastify/example/pull/16) in [fastify/example](https://github.com/fastify/example)
+5. 🎉 Merged PR [#1](https://github.com/makuzaverite/X-Deno/pull/1) in [makuzaverite/X-Deno](https://github.com/makuzaverite/X-Deno)
 <!--END_SECTION:activity-->
 </details>
 
