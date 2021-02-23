@@ -17,11 +17,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/KhushrajRathod/Finity/issues/1) in [KhushrajRathod/Finity](https://github.com/KhushrajRathod/Finity)
-2. ❌ Closed PR [#7](https://github.com/KhushrajRathod/Finity/pull/7) in [KhushrajRathod/Finity](https://github.com/KhushrajRathod/Finity)
-3. 💪 Opened PR [#7](https://github.com/KhushrajRathod/Finity/pull/7) in [KhushrajRathod/Finity](https://github.com/KhushrajRathod/Finity)
-4. 💪 Opened PR [#16](https://github.com/fastify/example/pull/16) in [fastify/example](https://github.com/fastify/example)
-5. 🎉 Merged PR [#1](https://github.com/makuzaverite/X-Deno/pull/1) in [makuzaverite/X-Deno](https://github.com/makuzaverite/X-Deno)
+1. 🎉 Merged PR [#8](https://github.com/makuzaverite/bd-reminder-bot/pull/8) in [makuzaverite/bd-reminder-bot](https://github.com/makuzaverite/bd-reminder-bot)
+2. 💪 Opened PR [#8](https://github.com/makuzaverite/bd-reminder-bot/pull/8) in [makuzaverite/bd-reminder-bot](https://github.com/makuzaverite/bd-reminder-bot)
+3. 🗣 Commented on [#1](https://github.com/KhushrajRathod/Finity/issues/1) in [KhushrajRathod/Finity](https://github.com/KhushrajRathod/Finity)
+4. ❌ Closed PR [#7](https://github.com/KhushrajRathod/Finity/pull/7) in [KhushrajRathod/Finity](https://github.com/KhushrajRathod/Finity)
+5. 💪 Opened PR [#7](https://github.com/KhushrajRathod/Finity/pull/7) in [KhushrajRathod/Finity](https://github.com/KhushrajRathod/Finity)
 <!--END_SECTION:activity-->
 </details>
 
