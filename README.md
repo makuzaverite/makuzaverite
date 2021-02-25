@@ -1,7 +1,6 @@
 
 ## Hi, I'm Makuza Mugabo Verite
 
-<br/>
 <h4>Software Engineer  and open source enthusiast.</h4>
 
 
@@ -11,6 +10,8 @@ My website: https://veritem.me
 
 My blog: https://codekin.tech
 
+
+<br/>
 
 <details>
   <summary>:zap: Guthub Status</summary>
