@@ -1,7 +1,7 @@
 
 ## Hi, I'm Makuza Mugabo Verite
 
-<h4>Software Engineer  and open source enthusiast.</h4>
+<h4>Software Developer</h4>
 
 
 ### Quick Links from me
