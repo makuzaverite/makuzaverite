@@ -17,11 +17,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#304](https://github.com/sveltejs/sapper-template/issues/304) in [sveltejs/sapper-template](https://github.com/sveltejs/sapper-template)
-2. 💪 Opened PR [#304](https://github.com/sveltejs/sapper-template/pull/304) in [sveltejs/sapper-template](https://github.com/sveltejs/sapper-template)
-3. 🎉 Merged PR [#8](https://github.com/makuzaverite/bd-reminder-bot/pull/8) in [makuzaverite/bd-reminder-bot](https://github.com/makuzaverite/bd-reminder-bot)
-4. 💪 Opened PR [#8](https://github.com/makuzaverite/bd-reminder-bot/pull/8) in [makuzaverite/bd-reminder-bot](https://github.com/makuzaverite/bd-reminder-bot)
-5. 🗣 Commented on [#1](https://github.com/KhushrajRathod/Finity/issues/1) in [KhushrajRathod/Finity](https://github.com/KhushrajRathod/Finity)
+1. 💪 Opened PR [#1](https://github.com/makuzaverite/veritem.me/pull/1) in [makuzaverite/veritem.me](https://github.com/makuzaverite/veritem.me)
+2. 🗣 Commented on [#304](https://github.com/sveltejs/sapper-template/issues/304) in [sveltejs/sapper-template](https://github.com/sveltejs/sapper-template)
+3. 💪 Opened PR [#304](https://github.com/sveltejs/sapper-template/pull/304) in [sveltejs/sapper-template](https://github.com/sveltejs/sapper-template)
+4. 🎉 Merged PR [#8](https://github.com/makuzaverite/bd-reminder-bot/pull/8) in [makuzaverite/bd-reminder-bot](https://github.com/makuzaverite/bd-reminder-bot)
+5. 💪 Opened PR [#8](https://github.com/makuzaverite/bd-reminder-bot/pull/8) in [makuzaverite/bd-reminder-bot](https://github.com/makuzaverite/bd-reminder-bot)
 <!--END_SECTION:activity-->
 </details>
 
