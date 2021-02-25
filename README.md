@@ -17,11 +17,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/makuzaverite/veritem.me/pull/1) in [makuzaverite/veritem.me](https://github.com/makuzaverite/veritem.me)
-2. 🗣 Commented on [#304](https://github.com/sveltejs/sapper-template/issues/304) in [sveltejs/sapper-template](https://github.com/sveltejs/sapper-template)
-3. 💪 Opened PR [#304](https://github.com/sveltejs/sapper-template/pull/304) in [sveltejs/sapper-template](https://github.com/sveltejs/sapper-template)
-4. 🎉 Merged PR [#8](https://github.com/makuzaverite/bd-reminder-bot/pull/8) in [makuzaverite/bd-reminder-bot](https://github.com/makuzaverite/bd-reminder-bot)
-5. 💪 Opened PR [#8](https://github.com/makuzaverite/bd-reminder-bot/pull/8) in [makuzaverite/bd-reminder-bot](https://github.com/makuzaverite/bd-reminder-bot)
+1. 💪 Opened PR [#2](https://github.com/makuzaverite/veritem.me/pull/2) in [makuzaverite/veritem.me](https://github.com/makuzaverite/veritem.me)
+2. 🎉 Merged PR [#1](https://github.com/makuzaverite/veritem.me/pull/1) in [makuzaverite/veritem.me](https://github.com/makuzaverite/veritem.me)
+3. 💪 Opened PR [#1](https://github.com/makuzaverite/veritem.me/pull/1) in [makuzaverite/veritem.me](https://github.com/makuzaverite/veritem.me)
+4. 🗣 Commented on [#304](https://github.com/sveltejs/sapper-template/issues/304) in [sveltejs/sapper-template](https://github.com/sveltejs/sapper-template)
+5. 💪 Opened PR [#304](https://github.com/sveltejs/sapper-template/pull/304) in [sveltejs/sapper-template](https://github.com/sveltejs/sapper-template)
 <!--END_SECTION:activity-->
 </details>
 
