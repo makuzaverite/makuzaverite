@@ -1,9 +1,15 @@
 
-<h1 align="center">Hi, I'm Makuza Mugabo Verite </h1> 
+## Hi, I'm Makuza Mugabo Verite
 
 <br/>
-<h4 align="center">Software Engineer  and open source enthusiast.</h4>
- <br/>
+<h4>Software Engineer  and open source enthusiast.</h4>
+
+
+### Quick Links from me
+
+My website: https://veritem.me
+
+My blog: https://codekin.tech
 
 
 <details>
@@ -27,29 +33,24 @@
 
 
 
-<h5 align="center"><em>Find me here on the internet</em></h5>
 
-<p align="center">
- 
+<!--
+<h5 align="center"><em>Find me here on the internet</em></h5>
+<p align="center"> 
   <a href="https://github.com/makuzaverite?tab=followers">
     <img src="https://img.shields.io/github/followers/makuzaverite?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  
    <a href="http://twitter.com/makuza_mugabo_v">
     <img src="https://img.shields.io/twitter/follow/makuza_mugabo_v?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
- 
  <a href="https://www.linkedin.com/in/makuza-mugabo-verite-99369a184/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
 </a>
-
 <a href="https://dev.to/mugaboverite" target="_blank">
    <img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=for-the-badge&logo=DEV.to&logoColor=white" alt="DEV.to">
 </a>
-
-
 <a href="https://codepen.io/makuza-mugabo-verite" target="_blank">
    <img src="https://img.shields.io/badge/Codepen-%230A0A0A.svg?&style=for-the-badge&logo=Codepen&logoColor=white" alt="Codepen">
 </a>
-
 </p>
+-->
