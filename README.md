@@ -24,11 +24,11 @@ My blog: https://codekin.tech
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/makuzaverite/gtube/pull/4) in [makuzaverite/gtube](https://github.com/makuzaverite/gtube)
-2. 💪 Opened PR [#4](https://github.com/makuzaverite/gtube/pull/4) in [makuzaverite/gtube](https://github.com/makuzaverite/gtube)
-3. 🎉 Merged PR [#3](https://github.com/makuzaverite/gtube/pull/3) in [makuzaverite/gtube](https://github.com/makuzaverite/gtube)
-4. 💪 Opened PR [#3](https://github.com/makuzaverite/gtube/pull/3) in [makuzaverite/gtube](https://github.com/makuzaverite/gtube)
-5. 🗣 Commented on [#304](https://github.com/sveltejs/sapper-template/issues/304) in [sveltejs/sapper-template](https://github.com/sveltejs/sapper-template)
+1. 🎉 Merged PR [#41](https://github.com/makuzaverite/codekin.tech/pull/41) in [makuzaverite/codekin.tech](https://github.com/makuzaverite/codekin.tech)
+2. 🎉 Merged PR [#4](https://github.com/makuzaverite/gtube/pull/4) in [makuzaverite/gtube](https://github.com/makuzaverite/gtube)
+3. 💪 Opened PR [#4](https://github.com/makuzaverite/gtube/pull/4) in [makuzaverite/gtube](https://github.com/makuzaverite/gtube)
+4. 🎉 Merged PR [#3](https://github.com/makuzaverite/gtube/pull/3) in [makuzaverite/gtube](https://github.com/makuzaverite/gtube)
+5. 💪 Opened PR [#3](https://github.com/makuzaverite/gtube/pull/3) in [makuzaverite/gtube](https://github.com/makuzaverite/gtube)
 <!--END_SECTION:activity-->
 </details>
 
