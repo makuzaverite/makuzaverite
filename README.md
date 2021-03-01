@@ -24,11 +24,11 @@ My blog: https://codekin.tech
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#59](https://github.com/makuzaverite/codekin.tech/issues/59) in [makuzaverite/codekin.tech](https://github.com/makuzaverite/codekin.tech)
-2. ❌ Closed PR [#59](https://github.com/makuzaverite/codekin.tech/pull/59) in [makuzaverite/codekin.tech](https://github.com/makuzaverite/codekin.tech)
-3. 🎉 Merged PR [#58](https://github.com/makuzaverite/codekin.tech/pull/58) in [makuzaverite/codekin.tech](https://github.com/makuzaverite/codekin.tech)
-4. 🗣 Commented on [#58](https://github.com/makuzaverite/codekin.tech/issues/58) in [makuzaverite/codekin.tech](https://github.com/makuzaverite/codekin.tech)
-5. 🗣 Commented on [#1053](https://github.com/nestjs/graphql/issues/1053) in [nestjs/graphql](https://github.com/nestjs/graphql)
+1. 🎉 Merged PR [#3](https://github.com/makuzaverite/fmbytes/pull/3) in [makuzaverite/fmbytes](https://github.com/makuzaverite/fmbytes)
+2. 💪 Opened PR [#3](https://github.com/makuzaverite/fmbytes/pull/3) in [makuzaverite/fmbytes](https://github.com/makuzaverite/fmbytes)
+3. 🗣 Commented on [#59](https://github.com/makuzaverite/codekin.tech/issues/59) in [makuzaverite/codekin.tech](https://github.com/makuzaverite/codekin.tech)
+4. ❌ Closed PR [#59](https://github.com/makuzaverite/codekin.tech/pull/59) in [makuzaverite/codekin.tech](https://github.com/makuzaverite/codekin.tech)
+5. 🎉 Merged PR [#58](https://github.com/makuzaverite/codekin.tech/pull/58) in [makuzaverite/codekin.tech](https://github.com/makuzaverite/codekin.tech)
 <!--END_SECTION:activity-->
 </details>
 
