@@ -24,11 +24,11 @@ My blog: https://codekin.tech
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#304](https://github.com/sveltejs/sapper-template/issues/304) in [sveltejs/sapper-template](https://github.com/sveltejs/sapper-template)
-2. 🎉 Merged PR [#3](https://github.com/makuzaverite/fmbytes/pull/3) in [makuzaverite/fmbytes](https://github.com/makuzaverite/fmbytes)
-3. 💪 Opened PR [#3](https://github.com/makuzaverite/fmbytes/pull/3) in [makuzaverite/fmbytes](https://github.com/makuzaverite/fmbytes)
-4. 🗣 Commented on [#59](https://github.com/makuzaverite/codekin.tech/issues/59) in [makuzaverite/codekin.tech](https://github.com/makuzaverite/codekin.tech)
-5. ❌ Closed PR [#59](https://github.com/makuzaverite/codekin.tech/pull/59) in [makuzaverite/codekin.tech](https://github.com/makuzaverite/codekin.tech)
+1. 🗣 Commented on [#59](https://github.com/makuzaverite/codekin.tech/issues/59) in [makuzaverite/codekin.tech](https://github.com/makuzaverite/codekin.tech)
+2. 🗣 Commented on [#304](https://github.com/sveltejs/sapper-template/issues/304) in [sveltejs/sapper-template](https://github.com/sveltejs/sapper-template)
+3. 🎉 Merged PR [#3](https://github.com/makuzaverite/fmbytes/pull/3) in [makuzaverite/fmbytes](https://github.com/makuzaverite/fmbytes)
+4. 💪 Opened PR [#3](https://github.com/makuzaverite/fmbytes/pull/3) in [makuzaverite/fmbytes](https://github.com/makuzaverite/fmbytes)
+5. 🗣 Commented on [#59](https://github.com/makuzaverite/codekin.tech/issues/59) in [makuzaverite/codekin.tech](https://github.com/makuzaverite/codekin.tech)
 <!--END_SECTION:activity-->
 </details>
 
