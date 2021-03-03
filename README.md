@@ -24,11 +24,11 @@ My blog: https://codekin.tech
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#62](https://github.com/PatrickNiyogitare28/customify/pull/62) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
-2. 💪 Opened PR [#61](https://github.com/PatrickNiyogitare28/customify/pull/61) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
-3. 🗣 Commented on [#59](https://github.com/makuzaverite/codekin.tech/issues/59) in [makuzaverite/codekin.tech](https://github.com/makuzaverite/codekin.tech)
-4. 🗣 Commented on [#304](https://github.com/sveltejs/sapper-template/issues/304) in [sveltejs/sapper-template](https://github.com/sveltejs/sapper-template)
-5. 🎉 Merged PR [#3](https://github.com/makuzaverite/fmbytes/pull/3) in [makuzaverite/fmbytes](https://github.com/makuzaverite/fmbytes)
+1. 💪 Opened PR [#68](https://github.com/makuzaverite/codekin.tech/pull/68) in [makuzaverite/codekin.tech](https://github.com/makuzaverite/codekin.tech)
+2. 💪 Opened PR [#62](https://github.com/PatrickNiyogitare28/customify/pull/62) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
+3. 💪 Opened PR [#61](https://github.com/PatrickNiyogitare28/customify/pull/61) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
+4. 🗣 Commented on [#59](https://github.com/makuzaverite/codekin.tech/issues/59) in [makuzaverite/codekin.tech](https://github.com/makuzaverite/codekin.tech)
+5. 🗣 Commented on [#304](https://github.com/sveltejs/sapper-template/issues/304) in [sveltejs/sapper-template](https://github.com/sveltejs/sapper-template)
 <!--END_SECTION:activity-->
 </details>
 
