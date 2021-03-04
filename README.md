@@ -24,11 +24,11 @@ My blog: https://codekin.tech
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#68](https://github.com/makuzaverite/codekin.tech/pull/68) in [makuzaverite/codekin.tech](https://github.com/makuzaverite/codekin.tech)
-2. 💪 Opened PR [#68](https://github.com/makuzaverite/codekin.tech/pull/68) in [makuzaverite/codekin.tech](https://github.com/makuzaverite/codekin.tech)
-3. 💪 Opened PR [#62](https://github.com/PatrickNiyogitare28/customify/pull/62) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
-4. 💪 Opened PR [#61](https://github.com/PatrickNiyogitare28/customify/pull/61) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
-5. 🗣 Commented on [#59](https://github.com/makuzaverite/codekin.tech/issues/59) in [makuzaverite/codekin.tech](https://github.com/makuzaverite/codekin.tech)
+1. 🎉 Merged PR [#66](https://github.com/PatrickNiyogitare28/customify/pull/66) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
+2. 💪 Opened PR [#66](https://github.com/PatrickNiyogitare28/customify/pull/66) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
+3. 🎉 Merged PR [#68](https://github.com/makuzaverite/codekin.tech/pull/68) in [makuzaverite/codekin.tech](https://github.com/makuzaverite/codekin.tech)
+4. 💪 Opened PR [#68](https://github.com/makuzaverite/codekin.tech/pull/68) in [makuzaverite/codekin.tech](https://github.com/makuzaverite/codekin.tech)
+5. 💪 Opened PR [#62](https://github.com/PatrickNiyogitare28/customify/pull/62) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
 <!--END_SECTION:activity-->
 </details>
 
