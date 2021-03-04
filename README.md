@@ -24,11 +24,11 @@ My blog: https://codekin.tech
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#77](https://github.com/PatrickNiyogitare28/customify/pull/77) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
-2. 💪 Opened PR [#77](https://github.com/PatrickNiyogitare28/customify/pull/77) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
-3. 🎉 Merged PR [#76](https://github.com/PatrickNiyogitare28/customify/pull/76) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
-4. 🎉 Merged PR [#51](https://github.com/PatrickNiyogitare28/customify/pull/51) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
-5. 🎉 Merged PR [#75](https://github.com/PatrickNiyogitare28/customify/pull/75) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
+1. 🎉 Merged PR [#78](https://github.com/PatrickNiyogitare28/customify/pull/78) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
+2. 💪 Opened PR [#78](https://github.com/PatrickNiyogitare28/customify/pull/78) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
+3. 🎉 Merged PR [#77](https://github.com/PatrickNiyogitare28/customify/pull/77) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
+4. 💪 Opened PR [#77](https://github.com/PatrickNiyogitare28/customify/pull/77) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
+5. 🎉 Merged PR [#76](https://github.com/PatrickNiyogitare28/customify/pull/76) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
 <!--END_SECTION:activity-->
 </details>
 
