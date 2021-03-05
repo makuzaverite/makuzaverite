@@ -1,14 +1,12 @@
 
 ## Hi, I'm Makuza Mugabo Verite
-
 <h4>Software Developer</h4>
 
-<br/>
-
-[website](https://veritem.me) .
+[website](https://veritem.me) . 
 [blog](https://codekin.tech)
 
 
+<br/>
 
 <details>
   <summary>:zap: Guthub Status</summary>
