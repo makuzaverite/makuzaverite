@@ -1,30 +1,25 @@
 
-## Hi, I'm Makuza Mugabo Verite
-<h4>Software Developer</h4>
+### Hi, I'm Makuza Mugabo Verite
+Software Developer
 
-[website](https://veritem.me) . 
-[blog](https://codekin.tech)
+- [website](https://veritem.me) 
+- [blog](https://codekin.tech)
 
 
-<br/>
-
+<!--
 <details>
   <summary>:zap: Guthub Status</summary>
  <p>
   <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=makuzaverite&count_private=true&show_icons=true&include_all_commits=true&show_icons=true&theme=tokyonight" /></p>
   </p>
-</details>
-
+</details>--!>
 <details>
   <summary>:zap: Recent Github Activity</summary>
-
-<!--START_SECTION:activity-->
 1. 🎉 Merged PR [#91](https://github.com/PatrickNiyogitare28/customify/pull/91) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
 2. 💪 Opened PR [#91](https://github.com/PatrickNiyogitare28/customify/pull/91) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
 3. 🎉 Merged PR [#89](https://github.com/PatrickNiyogitare28/customify/pull/89) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
 4. 🎉 Merged PR [#86](https://github.com/PatrickNiyogitare28/customify/pull/86) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
 5. 🎉 Merged PR [#87](https://github.com/PatrickNiyogitare28/customify/pull/87) in [PatrickNiyogitare28/customify](https://github.com/PatrickNiyogitare28/customify)
-<!--END_SECTION:activity-->
 </details>
 
 
