@@ -3,11 +3,12 @@
 
 <h4>Software Developer</h4>
 
-
-
-
-
 <br/>
+
+[website](https://veritem.me) .
+[blog](https://codekin.tech)
+
+
 
 <details>
   <summary>:zap: Guthub Status</summary>
@@ -28,9 +29,6 @@
 <!--END_SECTION:activity-->
 </details>
 
-
-[website](https://veritem.me) .
-[blog](https://codekin.tech)
 
 <!--
 <h5 align="center"><em>Find me here on the internet</em></h5>
