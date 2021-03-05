@@ -4,11 +4,7 @@
 <h4>Software Developer</h4>
 
 
-### Quick Links from me
 
-My website: https://veritem.me
-
-My blog: https://codekin.tech
 
 
 <br/>
@@ -33,7 +29,8 @@ My blog: https://codekin.tech
 </details>
 
 
-
+[website](https://veritem.me) .
+[blog](https://codekin.tech)
 
 <!--
 <h5 align="center"><em>Find me here on the internet</em></h5>
