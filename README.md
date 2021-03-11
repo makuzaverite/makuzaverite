@@ -1,6 +1,6 @@
 
 ### Hi, I'm Makuza Mugabo Verite
-Software Developer
+Software Engineer
 
 - [Website](https://veritem.me) 
 - [Blog](https://codekin.tech)
