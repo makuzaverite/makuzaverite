@@ -5,3 +5,4 @@ Software Engineer
 - [Website](https://veritem.me) 
 - [Blog](https://codekin.tech)
 - [Twitter](https://twitter.com/makuza_mugabo_v)
+- Pinned Repositories
